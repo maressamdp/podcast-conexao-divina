@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/cover.png"
+    src="https://github.com/maressamdp/Podcast-sobre-F-Ci-ncia-e-Tecnologia/blob/main/conex%C3%A3o.jpg"
     width="300"
 />
 </p>
@@ -26,14 +26,14 @@
     <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
 </div>
 
-# Projeto Podcast Gerado por I.A.s
+# Projeto Podcast Conexão Divina — Podcast Criado com I.A.s
 
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante uma live no Youtube em parceria com a [DIO](https://dio.me)
+ > ℹ️ **NOTE:** Este projeto foi desenvolvido como parte do desafio de criação de podcast com I.A. da DIO, com o objetivo de unir criatividade, tecnologia e inteligência artificial em um conteúdo leve e inspirador
 
-Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
-
-Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
+Bem-vindo ao Conexão Divina, um podcast que mistura fé, ciência e tecnologia — e, claro, uma boa dose de humor.
+Aqui, a gente reflete sobre a mente criada e o Criador, e conversa sobre como a era da informação pode tanto formar quanto deformar a nossa espiritualidade.
+Prepare o café, ajuste os fones e venha se conectar com a fé em novas frequências.
 
 ## 💻 Tecnologias utilizadas no projeto
 
@@ -44,10 +44,10 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## ✨ Como foi feito ?
 
-- Roteiro gerado via chatgpt
-- Audio gerado pela elevenLabs
-- Midjourney Para gerar capas
-- Capcut para tratar aúdio e adicionar sons de fundo
+- 🧠Roteiro gerado via chatgpt
+- 🎙️Narração gerado pela elevenLabs
+- 🎨Midjourney Para gerar capas
+- 🎧Capcut para tratar aúdio e adicionar sons de fundo
 
 ## 📚 Materiais
 
@@ -64,29 +64,29 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 - 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
 - 🤖 3. Use os prompts de artes no `midjourney`
 
-## 👨‍💻 Expert
+## 👨‍💻 Criadora
 
 <p>
     <img 
       align=left 
       margin=10 
       width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
+      src="https://github.com/maressamdp/maressamdp/blob/main/IMG_20190507_201649_733.jpg"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbspMaressa Pinho<br>
     &nbsp&nbsp&nbsp
     <a 
-        href="https://github.com/felipeAguiarCode">
+        href="https://github.com/maressamdp">
         GitHub
     </a>
     &nbsp;|&nbsp;
     <a 
-        href="www.linkedin.com/in/felipe-exe">
+        href="www.linkedin.com/in/maressapinho98">
         LinkedIn
     </a>
     &nbsp;|&nbsp;
     <a 
-        href="https://www.instagram.com/felipeaguiar.exe/">
+        href="https://www.instagram.com/maressamdp/">
         Instagram
     </a>
     &nbsp;|&nbsp;</p>
@@ -96,4 +96,5 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+⌨️ com 💜 por [Maressa Pinho](https://github.com/maressamdp)
+
